@@ -1,0 +1,16 @@
+body{
+	background:url("imagenes/poke.jpg") no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.m{
+	border:5px solid red;
+}
+
+.tew{
+	color:white;
+	font-family: Elephant;
+	font-size: 30px;
+	text-align: center;
+}
